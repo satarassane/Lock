@@ -103,7 +103,7 @@
         "id":3,
         "category_id":3,
         "name":"Olga03",
-        "description":"Config Online Example",
+        "description":"como Example",
         "config_payload":{
             "payload":"[instant_split]HTTP/ 2 HTTP/1.1 CONNECT HTTP/1.1[lf][lf]#[instant_split]HTTP/ 2 \\\\r\\\\n\\\\r\\\\n#[instant_split]HTTP/ [lf][lf]#[instant_split]HTTP/ 2 HTTP/1.1 [rotate=GET;POST;PUT;HEAD;OPTIONS;PATCH;DELETE;CONNECT;PROPFIND;PROPPATCH;MKCOL;COPY;MOVE;LOCK;UNLOCK;UPDATE;SEARCH] /Allow/HTTP/1.1[lf]host: cloudflare.com;twitter.com PATCH / Cache-Control: private: Web-security[lf]host: www.veek.com.br[lf]User-Agent: Rustproxy\\nProxy-Authorization: Basic base64(usuario:senha)\\nKeep-Alive: timeout=120, max=300\\nCONNECT 209.14.88.124:80 HTTP/1.1\\nConnection: keep-alive[lf]Keep-Alive: timeout=120, max=300[lf][lf]",
             "sni":null
